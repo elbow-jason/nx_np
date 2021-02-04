@@ -1,0 +1,2 @@
+defmodule NxNp do
+end
