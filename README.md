@@ -1,6 +1,6 @@
 # NxNp
 
-An attempt to port Jax Numpy to Nx.
+An attempt to port Jax Numpy to Nx. Once more Jax Numpy functionality is captured a port of Jax Scipy will be viable.
 
 #### Warning: It is very WIP
 
